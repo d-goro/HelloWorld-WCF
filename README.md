@@ -1,2 +1,2 @@
 # HelloWorld-WCF
-Simple WCF project
+Simple WCF cleint-serice demo
